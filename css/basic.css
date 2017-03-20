@@ -2,3 +2,8 @@
     height: 400px !important;
     overflow: scroll;
 }
+
+.center-iframe {
+  margin: 0 auto;
+  display: block;
+}
