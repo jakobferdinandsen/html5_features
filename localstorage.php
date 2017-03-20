@@ -28,5 +28,5 @@
         </div>
     </div>
 
-    <script src="js/webstorage.js"></script>
+    <script src="js/localstorage.js"></script>
 <?php include("html/close.html"); ?>
